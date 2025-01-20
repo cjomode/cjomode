@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Olá, me chamo Juliana !
+- 🔭 Atualmente estou trabalhando em Testes de Software
+- 🌱 Atualmente estou aprendendo Ruby on Rails
+
 <!--
 **cjomode/cjomode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
